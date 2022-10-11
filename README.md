@@ -1,4 +1,5 @@
-<a href="https://gdscppsu.surge.sh/" target="_blank"><img src="https://raw.githubusercontent.com/GDGVIT/.github/master/profile/banner.png" border="0" title="GDSC-PPSU" alt="GDSC-ppsu"></a>
+<a href="https://gdscppsu.surge.sh/" target="_blank"><img src="https://user-images.githubusercontent.com/56326391/195171045-c7e9faa0-b7d7-40e8-aaeb-7bfd3b555496.png" border="0" title="GDSC-PPSU" alt="GDSC-ppsu"></a>
+
 
 <h4 align="center">GDSC-PPSU is a student community with the aim of making tech more accessible as well create an impact in the society through Open-Source technology. </h4>
 
